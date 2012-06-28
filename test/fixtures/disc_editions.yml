@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  plastic: MyString
+  price: MyString
+  disc: 
+
+two:
+  plastic: MyString
+  price: MyString
+  disc: 

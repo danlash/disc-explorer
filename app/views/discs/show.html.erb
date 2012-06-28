@@ -1,0 +1,45 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @disc.name %>
+</p>
+
+<p>
+  <b>Manufacturer:</b>
+  <%= @disc.manufacturer %>
+</p>
+
+<p>
+  <b>Type:</b>
+  <%= @disc.throw_type %>
+</p>
+
+<p>
+  <b>Flight difficulty:</b>
+  <%= @disc.flight_difficulty %>
+</p>
+
+<p>
+  <b>Flight speed:</b>
+  <%= @disc.flight_speed %>
+</p>
+
+<p>
+  <b>Flight glide:</b>
+  <%= @disc.flight_glide %>
+</p>
+
+<p>
+  <b>Flight turn:</b>
+  <%= @disc.flight_turn %>
+</p>
+
+<p>
+  <b>Flight fade:</b>
+  <%= @disc.flight_fade %>
+</p>
+
+
+<%= link_to 'Edit', edit_disc_path(@disc) %> |
+<%= link_to 'Back', discs_path %>

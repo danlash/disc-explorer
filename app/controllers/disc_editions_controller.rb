@@ -1,0 +1,2 @@
+class DiscEditionsController < ApplicationController
+end
