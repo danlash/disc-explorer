@@ -1,4 +1,8 @@
 DiscExplorer::Application.routes.draw do
+  get "disc_editions/new"
+
+  get "disc_editions/show"
+
   resources :discs do
     resources :disc_editions
   end

@@ -13,7 +13,7 @@ class DiscsController < ApplicationController
   # GET /discs/1
   # GET /discs/1.json
   def show
-    @disc = Disc.find(params[:id])
+    @disc = Disc.includes(:disc_editions).find(params[:id])
 
     respond_to do |format|
       format.html # show.html.erb

@@ -1,5 +1,6 @@
 <p id="notice"><%= notice %></p>
 
+<h1>Disc</h1>
 <p>
   <b>Name:</b>
   <%= @disc.name %>
@@ -39,6 +40,23 @@
   <b>Flight fade:</b>
   <%= @disc.flight_fade %>
 </p>
+
+<h2>Disc Editions</h2>
+<ul>
+<% @disc.disc_editions.each do |disc_edition| %>
+  <li>
+    <p>
+      <b>Name:</b>
+      <%= disc_edition.plastic %>
+    </p>
+
+    <p>
+      <b>Price:</b>
+      <%= disc_edition.price %>
+    </p>
+  </li>
+<% end %>
+</ul>
 
 
 <%= link_to 'Edit', edit_disc_path(@disc) %> |
