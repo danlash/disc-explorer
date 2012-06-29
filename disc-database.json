@@ -1,0 +1,8864 @@
+[
+  {
+    "name": "10 M Brick",
+    "manufacturer": "Quest AT",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Nike",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "1",
+      "glide": "1",
+      "turn": "1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "10 M Crossfire",
+    "manufacturer": "Quest AT",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Nike",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "1",
+      "glide": "1",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "100 M Lazer",
+    "manufacturer": "Quest AT",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "SRP",
+        "price": "$11.99"
+      },
+      {
+        "name": "Tie-Dye SRP",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "86 Softie (Butter Putter)",
+    "manufacturer": "Frisbee (Wham-O)",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "2",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Ace",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "6",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Aero",
+    "manufacturer": "Innova",
+    "type": "Touch",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Champion",
+        "price": "-----"
+      },
+      {
+        "name": "Star",
+        "price": "-----"
+      },
+      {
+        "name": "Echo DX",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "3",
+      "glide": "6",
+      "turn": "0",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Aftershock",
+    "manufacturer": "DGA",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Proline",
+        "price": "$14.99"
+      },
+      {
+        "name": "SP Line",
+        "price": "$16.99"
+      },
+      {
+        "name": "Proline Tye Dye",
+        "price": "$18.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "3",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Soft Anode",
+    "manufacturer": "MVP Disc Sports",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Proton",
+        "price": "$14.99"
+      },
+      {
+        "name": "Eclipse Glow",
+        "price": "$19.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "3",
+      "glide": "4",
+      "turn": "0",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Medium Anode",
+    "manufacturer": "MVP Disc Sports",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Proton",
+        "price": "$14.99"
+      },
+      {
+        "name": "Eclipse Glow",
+        "price": "$19.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "3",
+      "glide": "4",
+      "turn": "0",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Apache",
+    "manufacturer": "Gateway",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Evolution HPP",
+        "price": "$14.99"
+      },
+      {
+        "name": "S-Series Super Light",
+        "price": "$6.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "6",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Ape",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Blizzard Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "13",
+      "glide": "5",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "APX (Soft)",
+    "manufacturer": "Discraft",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "2",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Archangel",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "8",
+      "glide": "6",
+      "turn": "-4",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Archon",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "$16.99"
+      },
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "11",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Arrow",
+    "manufacturer": "Aerobie",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Standard",
+        "price": "$12.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "",
+      "glide": "",
+      "turn": "",
+      "fade": ""
+    }
+  },
+  {
+    "name": "Ascent",
+    "manufacturer": "Vibram",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "X-Link Firm",
+        "price": "$16.99"
+      },
+      {
+        "name": "X-Link",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "7",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Assassin",
+    "manufacturer": "Gateway",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "-----"
+      },
+      {
+        "name": "E-Series",
+        "price": "$14.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "6",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Astra",
+    "manufacturer": "Millennium",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Millennium",
+        "price": "$11.99"
+      },
+      {
+        "name": "Sparkle Quantum",
+        "price": "$14.99"
+      },
+      {
+        "name": "M-Color",
+        "price": "$19.99"
+      },
+      {
+        "name": "I-Dyed Millennium",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "11",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Aurora MS",
+    "manufacturer": "Millennium",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Millennium",
+        "price": "$11.99"
+      },
+      {
+        "name": "Quantum",
+        "price": "$14.99"
+      },
+      {
+        "name": "Sirius",
+        "price": "-----"
+      },
+      {
+        "name": "I-Dyed Millennium",
+        "price": "-----"
+      },
+      {
+        "name": "I-Dyed Quantum",
+        "price": "-----"
+      },
+      {
+        "name": "I-Dyed Sirius",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Avenger SS (Super Straight)",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP",
+        "price": "$15.99"
+      },
+      {
+        "name": "ESP FLX",
+        "price": "$15.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      },
+      {
+        "name": "ESP Fly-Dyed",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Avenger",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP",
+        "price": "$15.99"
+      },
+      {
+        "name": "ESP FLX",
+        "price": "$15.99"
+      },
+      {
+        "name": "X-Line Fly-Dyed",
+        "price": "$14.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      },
+      {
+        "name": "Cryztal ESP Fundraiser",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "5",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Yeti Pro Aviar",
+    "manufacturer": "Innova",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Pro",
+        "price": "$10.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "KC Pro Aviar",
+    "manufacturer": "Innova",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Pro",
+        "price": "$10.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "JK Pro Aviar-X",
+    "manufacturer": "Innova",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Pro",
+        "price": "$10.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Aviar P & A",
+    "manufacturer": "Innova",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "R-Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Glow",
+        "price": "$11.99"
+      },
+      {
+        "name": "Champion (Glo CFR)",
+        "price": "-----"
+      },
+      {
+        "name": "DX (Full Color)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Buzzz SS",
+    "manufacturer": "Discraft",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      },
+      {
+        "name": "Z-Line Glo Fundraiser",
+        "price": "-----"
+      },
+      {
+        "name": "Sparkle Z-Line Fundraiser",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "5",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Buzzz",
+    "manufacturer": "Discraft",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP",
+        "price": "$15.99"
+      },
+      {
+        "name": "ESP FLX",
+        "price": "$15.99"
+      },
+      {
+        "name": "Titanium",
+        "price": "$18.99"
+      },
+      {
+        "name": "SuperCOLOR Z-Line",
+        "price": "-----"
+      },
+      {
+        "name": "SuperCOLOR ESP",
+        "price": "$17.99"
+      },
+      {
+        "name": "X-Line Fly-Dyed",
+        "price": "$14.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      },
+      {
+        "name": "ESP Fly-Dyed",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line Glo",
+        "price": "$16.99"
+      },
+      {
+        "name": "Z-Line Glo Fundraiser",
+        "price": "-----"
+      },
+      {
+        "name": "Sparkle Z-Line Fundraiser",
+        "price": "-----"
+      },
+      {
+        "name": "Cryztal Z Fundraiser",
+        "price": "-----"
+      },
+      {
+        "name": "Cryztal ESP Fundraiser",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "5",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Cannon",
+    "manufacturer": "Legacy Discs",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Pinnacle Edition",
+        "price": "$15.99"
+      },
+      {
+        "name": "Icon Edition",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "14",
+      "glide": "5",
+      "turn": "-3",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "CD (Control Driver)",
+    "manufacturer": "Discmania",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "D Line",
+        "price": "-----"
+      },
+      {
+        "name": "P Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "S Line",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Challenger (Soft)",
+    "manufacturer": "Discraft",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Challenger",
+    "manufacturer": "Discraft",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "X-Line",
+        "price": "-----"
+      },
+      {
+        "name": "ESP FLX",
+        "price": "$15.99"
+      },
+      {
+        "name": "X-Line Fly-Dyed",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "-----"
+      },
+      {
+        "name": "Cryztal Z Fundraiser",
+        "price": "-----"
+      },
+      {
+        "name": "Cryztal ESP Fundraiser",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Cheetah",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "6",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Classic Inferno",
+    "manufacturer": "Quest AT",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "SRP",
+        "price": "-----"
+      },
+      {
+        "name": "Tie-Dye SRP",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "11",
+      "glide": "6",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Clozer",
+    "manufacturer": "Legacy Discs",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Protege Edition",
+        "price": "$11.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Clutch",
+    "manufacturer": "Legacy Discs",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Protege Edition",
+        "price": "$11.99"
+      },
+      {
+        "name": "Icon Edition",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Cobra",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "-----"
+      },
+      {
+        "name": "Star (TFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Comet",
+    "manufacturer": "Discraft",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP",
+        "price": "-----"
+      },
+      {
+        "name": "X-Line Fly-Dyed",
+        "price": "$14.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Condor",
+    "manufacturer": "Innova",
+    "type": "Touch",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "3",
+      "glide": "5",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Core",
+    "manufacturer": "Latitude 64",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "5",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Coyote",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "-----"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Cro",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "R-Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "5",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Crossfire",
+    "manufacturer": "Quest AT",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Nike",
+        "price": "$9.99"
+      },
+      {
+        "name": "SRP",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "3",
+      "glide": "3",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Crosshair",
+    "manufacturer": "Discwing",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Baseline",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "2",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Crush",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "X-Line",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP",
+        "price": "$15.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "11",
+      "glide": "5",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Cyclone",
+    "manufacturer": "Discraft",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "-----"
+      },
+      {
+        "name": "ESP",
+        "price": "$15.99"
+      },
+      {
+        "name": "X-Line Fly-Dyed",
+        "price": "$14.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "7",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Dart",
+    "manufacturer": "Innova",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "R-Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "3",
+      "glide": "4",
+      "turn": "0",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "DD (Distance Driver)",
+    "manufacturer": "Discmania",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "P Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "S Line",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "11",
+      "glide": "5",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "DD2 (Distance Driver 2)",
+    "manufacturer": "Discmania",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "P Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "Blizzard C Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "C Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "S Line",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "13",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Demon",
+    "manufacturer": "Gateway",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      },
+      {
+        "name": "Evolution HPP",
+        "price": "$14.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Destroyer",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Blizzard Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "$16.99"
+      },
+      {
+        "name": "I-Dye Pro",
+        "price": "$14.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$17.99"
+      },
+      {
+        "name": "I-Dye Star",
+        "price": "-----"
+      },
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      },
+      {
+        "name": "Champion (Glo CFR)",
+        "price": "-----"
+      },
+      {
+        "name": "Star (TFR)",
+        "price": "-----"
+      },
+      {
+        "name": "Echo Star (TFR)",
+        "price": "-----"
+      },
+      {
+        "name": "InnColor Star (TFR)",
+        "price": "-----"
+      },
+      {
+        "name": "Champion (CFR) X-out",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "12",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Force",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP",
+        "price": "$15.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      },
+      {
+        "name": "ESP Fly-Dyed",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "12",
+      "glide": "5",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Fuse",
+    "manufacturer": "Latitude 64",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      },
+      {
+        "name": "Test Run",
+        "price": "$11.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "5",
+      "glide": "6",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Gator",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "5",
+      "glide": "2",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "KC Pro Gazelle",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Champion",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "6",
+      "glide": "4",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Gazelle",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Glow",
+        "price": "-----"
+      },
+      {
+        "name": "Champion (Glo CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "6",
+      "glide": "4",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Genesis",
+    "manufacturer": "Ching",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Power Line",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "11",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Ghost",
+    "manufacturer": "Legacy Discs",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Icon Edition",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "5",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Giant",
+    "manufacturer": "Westside",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "VIP",
+        "price": "$12.99"
+      },
+      {
+        "name": "Tournament",
+        "price": "$14.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "7",
+      "speed": "13",
+      "glide": "5",
+      "turn": "1",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Glide",
+    "manufacturer": "Discraft",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "7",
+      "glide": "5",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "GlowFly",
+    "manufacturer": "DGA",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "GlowFly",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "2",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "GM (Greater Midrange)",
+    "manufacturer": "Discmania",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "D Line",
+        "price": "-----"
+      },
+      {
+        "name": "S Line",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "6",
+      "glide": "5",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Goblin",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "3",
+      "glide": "4",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Groove",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "13",
+      "glide": "6",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Hail Mary",
+    "manufacturer": "DKG Disc Sports",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Cu (Copper)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "8",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Halo",
+    "manufacturer": "Latitude 64",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "13",
+      "glide": "5",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Havoc",
+    "manufacturer": "Latitude 64",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "13",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Hawk",
+    "manufacturer": "Discraft",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "3",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Helios",
+    "manufacturer": "Snap",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "EGR",
+        "price": "-----"
+      },
+      {
+        "name": "EGR (Gummy)",
+        "price": "-----"
+      },
+      {
+        "name": "FGR",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Hornet",
+    "manufacturer": "Discraft",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "5",
+      "glide": "5",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Hurricane",
+    "manufacturer": "DGA",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Proline",
+        "price": "$14.99"
+      },
+      {
+        "name": "SP Line",
+        "price": "$16.99"
+      },
+      {
+        "name": "Proline Tye Dye",
+        "price": "$18.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "12",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Hybrid",
+    "manufacturer": "Gateway",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "E-Series",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "8",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Hydra",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "R-Pro",
+        "price": "$10.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "3",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Ibex",
+    "manufacturer": "Vibram",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "X-Link Firm",
+        "price": "$16.99"
+      },
+      {
+        "name": "X-Link",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "5",
+      "glide": "5",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Illusion",
+    "manufacturer": "Gateway",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      },
+      {
+        "name": "E-Series",
+        "price": "$14.99"
+      },
+      {
+        "name": "E-Series Hi-Flex",
+        "price": "-----"
+      },
+      {
+        "name": "Glow",
+        "price": "-----"
+      },
+      {
+        "name": "S-Series Super Light",
+        "price": "$6.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Impact",
+    "manufacturer": "Discraft",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "ESP",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "6",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Inferno",
+    "manufacturer": "Quest AT",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "SRP",
+        "price": "$11.99"
+      },
+      {
+        "name": "Premier",
+        "price": "-----"
+      },
+      {
+        "name": "Tie-Dye SRP",
+        "price": "-----"
+      },
+      {
+        "name": "SRP X-Out",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "10",
+      "glide": "6",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Soft Ion Putter",
+    "manufacturer": "MVP Disc Sports",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Proton",
+        "price": "$14.99"
+      },
+      {
+        "name": "Eclipse Glow",
+        "price": "$19.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "3",
+      "glide": "4",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Medium Ion Putter",
+    "manufacturer": "MVP Disc Sports",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Proton",
+        "price": "$14.99"
+      },
+      {
+        "name": "Eclipse Glow",
+        "price": "$19.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "3",
+      "glide": "4",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Jaguar",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "7",
+      "turn": "-5",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "JLS",
+    "manufacturer": "Millennium",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Millennium",
+        "price": "$11.99"
+      },
+      {
+        "name": "Quantum",
+        "price": "$14.99"
+      },
+      {
+        "name": "Sirius",
+        "price": "$15.99"
+      },
+      {
+        "name": "Sparkle Quantum",
+        "price": "$14.99"
+      },
+      {
+        "name": "I-Dyed Millennium",
+        "price": "$15.99"
+      },
+      {
+        "name": "I-Dyed Quantum",
+        "price": "-----"
+      },
+      {
+        "name": "I-Dyed Sirius",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "JuJu",
+    "manufacturer": "Ching",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Power Line",
+        "price": "$8.99"
+      },
+      {
+        "name": "Supreme Line",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "3",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Katana",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Blizzard Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "$16.99"
+      },
+      {
+        "name": "I-Dye Pro",
+        "price": "$14.99"
+      },
+      {
+        "name": "Champion (CFR)",
+        "price": "$24.99"
+      },
+      {
+        "name": "Champion (Glo CFR)",
+        "price": "-----"
+      },
+      {
+        "name": "Star (TFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "13",
+      "glide": "5",
+      "turn": "-3",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "King",
+    "manufacturer": "Westside",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "VIP",
+        "price": "$16.99"
+      },
+      {
+        "name": "Tournament",
+        "price": "$18.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "14",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "King Cobra",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion",
+        "price": "$12.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "5",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Kite",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "5",
+      "glide": "5",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Krait",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Blizzard Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Champion (CFR)",
+        "price": "$19.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "11",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Kraken",
+    "manufacturer": "DKG Disc Sports",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Cu (Copper)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "13",
+      "glide": "4",
+      "turn": "-3",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Legacy",
+    "manufacturer": "Ching",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Power Line",
+        "price": "$8.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Leopard",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "$16.99"
+      },
+      {
+        "name": "Glow",
+        "price": "-----"
+      },
+      {
+        "name": "I-Dye Pro",
+        "price": "$14.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "6",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Lycan",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Star",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "5",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Magic (Super Stupid Soft(SSS))",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series Super Stupid Soft",
+        "price": "$11.99"
+      },
+      {
+        "name": "Organic S-Series",
+        "price": "-----"
+      },
+      {
+        "name": "S-Series Proto(Chalky)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "-1",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Magic (Super Soft)",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      },
+      {
+        "name": "S-Series Proto(Chalky)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "-1",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Magic (Soft)",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      },
+      {
+        "name": "Organic S-Series",
+        "price": "$11.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "-1",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Magic (Medium)",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "-1",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Magic",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "E-Series",
+        "price": "-----"
+      },
+      {
+        "name": "Evolution HPP",
+        "price": "$14.99"
+      },
+      {
+        "name": "Glow",
+        "price": "-----"
+      },
+      {
+        "name": "Organic S-Series",
+        "price": "-----"
+      },
+      {
+        "name": "S-Series Super Light",
+        "price": "$6.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "-1",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Magnet (Soft)",
+    "manufacturer": "Discraft",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Magnet",
+    "manufacturer": "Discraft",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$9.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "-----"
+      },
+      {
+        "name": "Photon Glow",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "2",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Mako",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "$16.99"
+      },
+      {
+        "name": "Champion Glo",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "5",
+      "turn": "0",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Mamba",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "11",
+      "glide": "6",
+      "turn": "-5",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Max",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Star",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "11",
+      "glide": "4",
+      "turn": "0",
+      "fade": "5"
+    }
+  },
+  {
+    "name": "Diablo DT",
+    "manufacturer": "Gateway",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "E-Series",
+        "price": "$14.99"
+      },
+      {
+        "name": "E-Series Hi-Flex",
+        "price": "-----"
+      },
+      {
+        "name": "E-Series Tie-Dye",
+        "price": "-----"
+      },
+      {
+        "name": "E-Series Hi-Flex Tie-Dye",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "11",
+      "glide": "6",
+      "turn": "-1",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Diamond",
+    "manufacturer": "Latitude 64",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Test Run",
+        "price": "$11.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "8",
+      "glide": "6",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "DX Disc Golf Set",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "DX Disc Golf Set",
+        "price": "$28.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "",
+      "speed": "",
+      "glide": "",
+      "turn": "",
+      "fade": ""
+    }
+  },
+  {
+    "name": "Champion Disc Golf Set",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Champion Disc Golf Set",
+        "price": "$42.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "",
+      "speed": "",
+      "glide": "",
+      "turn": "",
+      "fade": ""
+    }
+  },
+  {
+    "name": "Dominator",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Blizzard Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "13",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Double D",
+    "manufacturer": "Quest AT",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Nike",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "12",
+      "glide": "4",
+      "turn": "0",
+      "fade": "5"
+    }
+  },
+  {
+    "name": "Dragon",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "8",
+      "glide": "6",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Drone",
+    "manufacturer": "Discraft",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "-----"
+      },
+      {
+        "name": "ESP FLX",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "5",
+      "glide": "3",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Eagle-L",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "7",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Eagle",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Glow",
+        "price": "-----"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "7",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Eclipse",
+    "manufacturer": "Discraft",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "7",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Element",
+    "manufacturer": "Gateway",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      },
+      {
+        "name": "E-Series",
+        "price": "-----"
+      },
+      {
+        "name": "Evolution HPP",
+        "price": "$14.99"
+      },
+      {
+        "name": "E-Series Tie-Dye",
+        "price": "-----"
+      },
+      {
+        "name": "S-Series Super Light",
+        "price": "$6.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "5",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Element-X",
+    "manufacturer": "Gateway",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "-----"
+      },
+      {
+        "name": "E-Series",
+        "price": "-----"
+      },
+      {
+        "name": "E-Series Tie-Dye",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "5",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Epic",
+    "manufacturer": "Aerobie",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Standard",
+        "price": "$12.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "",
+      "glide": "",
+      "turn": "",
+      "fade": ""
+    }
+  },
+  {
+    "name": "EXP1",
+    "manufacturer": "Millennium",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Millennium",
+        "price": "$11.99"
+      },
+      {
+        "name": "I-Dyed Millennium",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "4",
+      "turn": "1",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "FD (Fariway Driver)",
+    "manufacturer": "Discmania",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "S Line",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "7",
+      "glide": "6",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "FL (Firebird-L)",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Star",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "9",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Firebird",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "-----"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Glow",
+        "price": "-----"
+      },
+      {
+        "name": "I-Dye Pro",
+        "price": "-----"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "9",
+      "glide": "3",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Flash",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP",
+        "price": "$15.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Flathead Cyclone",
+    "manufacturer": "DGA",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "RDGA, Reef, 150 class Squall, and Blunt Driver",
+        "price": "$8.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "7",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Flick",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "4",
+      "turn": "1",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Flow",
+    "manufacturer": "Latitude 64",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "11",
+      "glide": "6",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Flying Squirrel",
+    "manufacturer": "ABC Discs",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Gold",
+        "price": "$12.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "5",
+      "turn": "-4",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Focus (Soft)",
+    "manufacturer": "Discraft",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "2",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Focus",
+    "manufacturer": "Discraft",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "2",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Aviar Driver Big Bead",
+    "manufacturer": "Innova",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Star",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Aviar Classic",
+    "manufacturer": "Innova",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Axis Mid-Range",
+    "manufacturer": "MVP Disc Sports",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Proton",
+        "price": "$14.99"
+      },
+      {
+        "name": "Eclipse Glow",
+        "price": "$19.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "5",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Backbone",
+    "manufacturer": "Quest AT",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "SRP",
+        "price": "-----"
+      },
+      {
+        "name": "Tie-Dye SRP",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "6",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Banger (GT)",
+    "manufacturer": "Discraft",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "ESP",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Banger (GT - Soft)",
+    "manufacturer": "Discraft",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Bank",
+    "manufacturer": "Frisbee (Wham-O)",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Touchline",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "",
+      "glide": "",
+      "turn": "",
+      "fade": ""
+    }
+  },
+  {
+    "name": "Banshee",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "7",
+      "glide": "3",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Beast",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Glow",
+        "price": "$11.99"
+      },
+      {
+        "name": "I-Dye Pro",
+        "price": "$14.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$17.99"
+      },
+      {
+        "name": "DX (Full Color)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Beginner Disc Golf Set",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Beginner Disc Golf Set",
+        "price": "$23.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "",
+      "speed": "",
+      "glide": "",
+      "turn": "",
+      "fade": ""
+    }
+  },
+  {
+    "name": "Birdie",
+    "manufacturer": "Innova",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "1",
+      "glide": "2",
+      "turn": "0",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Blaze",
+    "manufacturer": "Gateway",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      },
+      {
+        "name": "E-Series",
+        "price": "-----"
+      },
+      {
+        "name": "Evolution HPP",
+        "price": "$14.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "7",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Blitz",
+    "manufacturer": "Latitude 64",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "12",
+      "glide": "3",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "BlowFly",
+    "manufacturer": "DGA",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Signature Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "Signature Line X-Out",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "2",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "BlowFly II",
+    "manufacturer": "DGA",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Signature Line",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "2",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Blunt Driver",
+    "manufacturer": "DGA",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "RDGA, Reef, 150 class Squall, and Blunt Driver",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "3",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Blunt Gumbputt",
+    "manufacturer": "DGA",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Signature Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "Signature Line X-Out",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "3",
+      "glide": "2",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Blurr",
+    "manufacturer": "Gateway",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "E-Series",
+        "price": "-----"
+      },
+      {
+        "name": "E-Series Tie-Dye",
+        "price": "-----"
+      },
+      {
+        "name": "S-Series Super Light",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Boatman",
+    "manufacturer": "Westside",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "VIP",
+        "price": "$16.99"
+      },
+      {
+        "name": "Tournament",
+        "price": "$18.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "11",
+      "glide": "5",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Bolt",
+    "manufacturer": "Latitude 64",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      },
+      {
+        "name": "Test Run 2",
+        "price": "$11.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "13",
+      "glide": "6",
+      "turn": "-2",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Boom",
+    "manufacturer": "DKG Disc Sports",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Cu (Copper)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "13",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Boss XG",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Champion",
+        "price": "-----"
+      },
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "13",
+      "glide": "6",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Boss",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "R-Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Blizzard Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "$16.99"
+      },
+      {
+        "name": "I-Dye Pro",
+        "price": "$14.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$17.99"
+      },
+      {
+        "name": "I-Dye Star",
+        "price": "$19.99"
+      },
+      {
+        "name": "Champion (Glo CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "13",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Breeze",
+    "manufacturer": "Discraft",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Z-Line",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Bulldog",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "3",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "MD1 (Midrange)",
+    "manufacturer": "Discmania",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "D Line",
+        "price": "$8.99"
+      },
+      {
+        "name": "S Line",
+        "price": "$15.99"
+      },
+      {
+        "name": "SG Line",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "MD2 (Midrange)",
+    "manufacturer": "Discmania",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "P Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "C Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "S Line",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "5",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Medius",
+    "manufacturer": "Latitude 64",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Grip Line",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "7",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Merc",
+    "manufacturer": "DKG Disc Sports",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Cu (Copper)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "13",
+      "glide": "4",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Mercy",
+    "manufacturer": "Latitude 64",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Eze Line",
+        "price": "$11.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "4",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Meteor",
+    "manufacturer": "Discraft",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "ESP",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "5",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Miracle",
+    "manufacturer": "DKG Disc Sports",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Cu (Copper)",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "6",
+      "glide": "4",
+      "turn": "-5",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Mirus",
+    "manufacturer": "Latitude 64",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Grip Line",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Mission",
+    "manufacturer": "ABC Discs",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Gold",
+        "price": "$12.99"
+      },
+      {
+        "name": "Platinum",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Monarch",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$17.99"
+      },
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      },
+      {
+        "name": "Champion (Glo CFR)",
+        "price": "$19.99"
+      },
+      {
+        "name": "Star (TFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-4",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Money",
+    "manufacturer": "ABC Discs",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Bronze",
+        "price": "$7.99"
+      },
+      {
+        "name": "Gold",
+        "price": "$12.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Monster",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "10",
+      "glide": "3",
+      "turn": "0",
+      "fade": "5"
+    }
+  },
+  {
+    "name": "No. 1 Driver",
+    "manufacturer": "Lightning",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "$7.99"
+      },
+      {
+        "name": "Glow",
+        "price": "$5.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "7",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "No. 1 Flyer",
+    "manufacturer": "Lightning",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "$7.99"
+      },
+      {
+        "name": "Glow",
+        "price": "$5.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "8",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "No. 1 Helix",
+    "manufacturer": "Lightning",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "$7.99"
+      },
+      {
+        "name": "Glow",
+        "price": "$8.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "No. 1 Hyzer",
+    "manufacturer": "Lightning",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "$7.99"
+      },
+      {
+        "name": "Glow",
+        "price": "$8.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "8",
+      "glide": "4",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "No. 1 Roller",
+    "manufacturer": "Lightning",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "$7.99"
+      },
+      {
+        "name": "Glow",
+        "price": "$5.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "8",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "No. 1 Slice",
+    "manufacturer": "Lightning",
+    "type": "Distance Driver",
+    "plastic": [],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "5",
+      "turn": "-3",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "No. 2 Driver",
+    "manufacturer": "Lightning",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "$7.99"
+      },
+      {
+        "name": "Glow",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "8",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "No. 2 Flyer",
+    "manufacturer": "Lightning",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "No. 2 Helix",
+    "manufacturer": "Lightning",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "$7.99"
+      },
+      {
+        "name": "Glow",
+        "price": "$8.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "11",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "No. 2 Hyzer",
+    "manufacturer": "Lightning",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "$7.99"
+      },
+      {
+        "name": "Glow",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "5",
+      "glide": "4",
+      "turn": "1",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "No. 2 Slice",
+    "manufacturer": "Lightning",
+    "type": "Fairway Driver",
+    "plastic": [],
+    "flight": {
+      "difficulty": "4",
+      "speed": "8",
+      "glide": "5",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "No. 2 Upshot",
+    "manufacturer": "Lightning",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "$7.99"
+      },
+      {
+        "name": "Glow",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Northman",
+    "manufacturer": "Westside",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "VIP",
+        "price": "$16.99"
+      },
+      {
+        "name": "Tournament",
+        "price": "$18.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Nuke",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP",
+        "price": "$15.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      },
+      {
+        "name": "Z-Line Glo",
+        "price": "$16.99"
+      },
+      {
+        "name": "Z-Line Glo Fundraiser",
+        "price": "-----"
+      },
+      {
+        "name": "Sparkle Z-Line Fundraiser",
+        "price": "$15.99"
+      },
+      {
+        "name": "SuperCOLOR ESP Fundraiser",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "13",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Nuke OS",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "13",
+      "glide": "4",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Nuke SS",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "13",
+      "glide": "4",
+      "turn": "-3",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Odyssey Ultra Long Range Driver",
+    "manufacturer": "Quest AT",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Nike",
+        "price": "$9.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "9",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Omega Super Soft Putter",
+    "manufacturer": "Millennium",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Millennium",
+        "price": "$11.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Omega AP",
+    "manufacturer": "Millennium",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Millennium",
+        "price": "$11.99"
+      },
+      {
+        "name": "Quantum",
+        "price": "$14.99"
+      },
+      {
+        "name": "Sirius",
+        "price": "$15.99"
+      },
+      {
+        "name": "I-Dyed Millennium",
+        "price": "-----"
+      },
+      {
+        "name": "I-Dyed Quantum",
+        "price": "$18.99"
+      },
+      {
+        "name": "I-Dyed Sirius",
+        "price": "$19.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Oracle",
+    "manufacturer": "Ching",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Power Line",
+        "price": "$8.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Orc",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "-----"
+      },
+      {
+        "name": "I-Dye Pro",
+        "price": "$14.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Orion LS",
+    "manufacturer": "Millennium",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Millennium",
+        "price": "$11.99"
+      },
+      {
+        "name": "Quantum",
+        "price": "$14.99"
+      },
+      {
+        "name": "Sirius",
+        "price": "$15.99"
+      },
+      {
+        "name": "I-Dyed Millennium",
+        "price": "-----"
+      },
+      {
+        "name": "I-Dyed Sirius",
+        "price": "$19.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Orion LF",
+    "manufacturer": "Millennium",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Millennium",
+        "price": "$11.99"
+      },
+      {
+        "name": "Quantum",
+        "price": "$14.99"
+      },
+      {
+        "name": "Sirius",
+        "price": "$15.99"
+      },
+      {
+        "name": "I-Dyed Millennium",
+        "price": "$15.99"
+      },
+      {
+        "name": "I-Dyed Quantum",
+        "price": "$18.99"
+      },
+      {
+        "name": "I-Dyed Sirius",
+        "price": "$19.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "10",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Over",
+    "manufacturer": "Frisbee (Wham-O)",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Touchline",
+        "price": "$14.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "",
+      "glide": "",
+      "turn": "",
+      "fade": ""
+    }
+  },
+  {
+    "name": "P1 (Putter)",
+    "manufacturer": "Discmania",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "D Line",
+        "price": "-----"
+      },
+      {
+        "name": "P Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "S Line",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "P2 (Putter)",
+    "manufacturer": "Discmania",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "D Line",
+        "price": "$8.99"
+      },
+      {
+        "name": "S Line",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Pain",
+    "manufacturer": "Latitude 64",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Panther",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "-----"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "5",
+      "glide": "3",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "PD (Power Driver)",
+    "manufacturer": "Discmania",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "P Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "C Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "S Line",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "PD2 (Power Driver 2)",
+    "manufacturer": "Discmania",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "P Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "C Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "S Line",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "12",
+      "glide": "4",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Pegasus",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "6",
+      "glide": "4",
+      "turn": "1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Pig",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Pro",
+        "price": "$15.99"
+      },
+      {
+        "name": "R-Pro",
+        "price": "$10.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "3",
+      "glide": "1",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Polaris LS",
+    "manufacturer": "Millennium",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Millennium",
+        "price": "$11.99"
+      },
+      {
+        "name": "Quantum",
+        "price": "$14.99"
+      },
+      {
+        "name": "Sirius",
+        "price": "$15.99"
+      },
+      {
+        "name": "Sparkle Quantum",
+        "price": "$14.99"
+      },
+      {
+        "name": "I-Dyed Millennium",
+        "price": "$15.99"
+      },
+      {
+        "name": "I-Dyed Sirius",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Polaris LF",
+    "manufacturer": "Millennium",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Millennium",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "8",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Polecat P & A",
+    "manufacturer": "Innova",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "R-Pro",
+        "price": "$10.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "1",
+      "glide": "3",
+      "turn": "0",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "PowerDrive Gumbputt",
+    "manufacturer": "DGA",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Signature Line",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "6",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Precision",
+    "manufacturer": "Ching",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Power Line",
+        "price": "$8.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "5",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Predator",
+    "manufacturer": "Discraft",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "X-Line",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP",
+        "price": "$15.99"
+      },
+      {
+        "name": "ESP FLX",
+        "price": "$15.99"
+      },
+      {
+        "name": "X-Line Fly-Dyed",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "9",
+      "glide": "4",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Primitus",
+    "manufacturer": "Latitude 64",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Grip Line",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "9",
+      "glide": "5",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Protege",
+    "manufacturer": "DKG Disc Sports",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Cu (Copper)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "13",
+      "glide": "4",
+      "turn": "-4",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Pulse",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "ESP",
+        "price": "-----"
+      },
+      {
+        "name": "ESP Fly-Dyed",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "11",
+      "glide": "5",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Pure",
+    "manufacturer": "Latitude 64",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Zero Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "Grip Line",
+        "price": "-----"
+      },
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Test Run 2",
+        "price": "$11.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "3",
+      "glide": "3",
+      "turn": "0",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Putt'r",
+    "manufacturer": "Discraft",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "2",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Quarter K",
+    "manufacturer": "Discwing",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Streamline",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "11",
+      "glide": "5",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Quarter K II",
+    "manufacturer": "Discwing",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Shockline",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "11",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Quasar",
+    "manufacturer": "Millennium",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Sparkle Quantum",
+        "price": "$14.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "13",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Rage",
+    "manufacturer": "Gateway",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "E-Series",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "6",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Raging Inferno",
+    "manufacturer": "Quest AT",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "SRP",
+        "price": "$11.99"
+      },
+      {
+        "name": "Tie-Dye SRP",
+        "price": "-----"
+      },
+      {
+        "name": "SRP X-Out",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "11",
+      "glide": "5",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Raging Inferno DT",
+    "manufacturer": "Quest AT",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "SRP",
+        "price": "$11.99"
+      },
+      {
+        "name": "Premier",
+        "price": "$13.99"
+      },
+      {
+        "name": "Tie-Dye SRP",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "11",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Rampage",
+    "manufacturer": "Legacy Discs",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Excel Edition",
+        "price": "$8.99"
+      },
+      {
+        "name": "Protege Edition",
+        "price": "$11.99"
+      },
+      {
+        "name": "Pinnacle Edition",
+        "price": "$15.99"
+      },
+      {
+        "name": "Icon Edition",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "14",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Raptor-X",
+    "manufacturer": "DG Aotearoa",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Atomic",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "10",
+      "glide": "5",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Raptor",
+    "manufacturer": "DG Aotearoa",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Ultra",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "9",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Rattler",
+    "manufacturer": "Discraft",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "2",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Reaper",
+    "manufacturer": "Discraft",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "-----"
+      },
+      {
+        "name": "X-Line",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "8",
+      "glide": "4",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Reef",
+    "manufacturer": "DGA",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "RDGA, Reef, 150 class Squall, and Blunt Driver",
+        "price": "$8.99"
+      },
+      {
+        "name": "SP Line",
+        "price": "$16.99"
+      },
+      {
+        "name": "RDGA, Reef, 150 class Squall, and Blunt Driver X-Out",
+        "price": "$6.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "2",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Rhyno",
+    "manufacturer": "Innova",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "-----"
+      },
+      {
+        "name": "R-Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "2",
+      "glide": "1",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Ridge",
+    "manufacturer": "Vibram",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "X-Link Firm",
+        "price": "$16.99"
+      },
+      {
+        "name": "X-Link",
+        "price": "$16.99"
+      },
+      {
+        "name": "X-Link Soft",
+        "price": "-----"
+      },
+      {
+        "name": "Granite X-Link",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Ringer",
+    "manufacturer": "Discraft",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Riot",
+    "manufacturer": "Latitude 64",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "11",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Rippa",
+    "manufacturer": "DG Aotearoa",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "3",
+      "turn": "-2",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Riptide",
+    "manufacturer": "DGA",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Proline",
+        "price": "$14.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "River",
+    "manufacturer": "Latitude 64",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      },
+      {
+        "name": "Test Run",
+        "price": "$11.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "7",
+      "glide": "7",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Roadrunner",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "$16.99"
+      },
+      {
+        "name": "Champion Glo",
+        "price": "$17.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "9",
+      "glide": "5",
+      "turn": "-4",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "XG Roc Plus",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "$19.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "5",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Super Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Super (Pro Line)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "San Marino Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "-----"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Roc Plus",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "R-Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Champion (CFR)",
+        "price": "$19.99"
+      },
+      {
+        "name": "Star (TFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "5",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "R-Pro",
+        "price": "-----"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Glow",
+        "price": "$11.99"
+      },
+      {
+        "name": "Star (TFR)",
+        "price": "-----"
+      },
+      {
+        "name": "DX (Full Color)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Prototype Pro Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Pro",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Ontario Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$19.99"
+      },
+      {
+        "name": "Star",
+        "price": "-----"
+      },
+      {
+        "name": "InnColor Star (TFR)",
+        "price": "-----"
+      },
+      {
+        "name": "Star (TFR) X-out",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Classic Roc",
+    "manufacturer": "Innova",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Champion",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "3",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "2011 USDGC Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "$59.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "2010 USDGC Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "2009 USDGC Thrower Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Star (TFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "2009 USDGC Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      },
+      {
+        "name": "Star (TFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "",
+      "speed": "",
+      "glide": "",
+      "turn": "",
+      "fade": ""
+    }
+  },
+  {
+    "name": "2008 USDGC Thrower Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "2008 USDGC Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "$169.99"
+      },
+      {
+        "name": "Star (TFR)",
+        "price": "-----"
+      },
+      {
+        "name": "Echo Star (TFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "2008 Japan Open Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Star (TFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "2007 USDGC Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "$49.99"
+      },
+      {
+        "name": "Star (TFR)",
+        "price": "$43.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "2007 USDGC Full Color Flat Top Ontario Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX (Full Color)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "2006 USDGC Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      },
+      {
+        "name": "Star (TFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "2006 Spectator Roc",
+    "manufacturer": "Innova",
+    "type": "",
+    "plastic": [
+      {
+        "name": "Star",
+        "price": "-----"
+      },
+      {
+        "name": "Star (TFR)",
+        "price": "$29.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "",
+      "speed": "",
+      "glide": "",
+      "turn": "",
+      "fade": ""
+    }
+  },
+  {
+    "name": "2005 USDGC Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "2005 Japan Open Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "2004 USDGC Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "2003 USDGC Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "2002 USDGC Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "2001 USDGC Roc",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Rock-It",
+    "manufacturer": "Quest AT",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "SRP",
+        "price": "$11.99"
+      },
+      {
+        "name": "Tie-Dye SRP",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "4",
+      "glide": "-2",
+      "turn": "1",
+      "fade": ""
+    }
+  },
+  {
+    "name": "Rogue",
+    "manufacturer": "DGA",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Proline",
+        "price": "$14.99"
+      },
+      {
+        "name": "SP Line",
+        "price": "$16.99"
+      },
+      {
+        "name": "Proline Tye Dye",
+        "price": "$18.99"
+      },
+      {
+        "name": "SP Line Tye Dye",
+        "price": "-----"
+      },
+      {
+        "name": "RDGA, Reef, 150 class Squall, and Blunt Driver X-Out",
+        "price": "-----"
+      },
+      {
+        "name": "Proline X-Out",
+        "price": "-----"
+      },
+      {
+        "name": "Sparkle Fund Raiser",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "10",
+      "glide": "5",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Rubber Putter",
+    "manufacturer": "Lightning",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "$7.99"
+      },
+      {
+        "name": "Glow",
+        "price": "$5.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "3",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Sabre",
+    "manufacturer": "Gateway",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      },
+      {
+        "name": "E-Series",
+        "price": "-----"
+      },
+      {
+        "name": "Evolution HPP",
+        "price": "$14.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "7",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Savage",
+    "manufacturer": "Gateway",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Evolution HPP",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "5",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Scorcher",
+    "manufacturer": "Quest AT",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "SRP",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "4",
+      "turn": "1",
+      "fade": "5"
+    }
+  },
+  {
+    "name": "Scout",
+    "manufacturer": "Gateway",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      },
+      {
+        "name": "E-Series",
+        "price": "$14.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "8",
+      "glide": "6",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Scream",
+    "manufacturer": "Quest AT",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "SRP",
+        "price": "$9.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "6",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Scream DT",
+    "manufacturer": "Quest AT",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "SRP X-Out",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "9",
+      "glide": "5",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Scream Max",
+    "manufacturer": "Quest AT",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "SRP",
+        "price": "$11.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "9",
+      "speed": "6",
+      "glide": "1",
+      "turn": "3",
+      "fade": ""
+    }
+  },
+  {
+    "name": "Secret Weapon",
+    "manufacturer": "ABC Discs",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Gold",
+        "price": "$12.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "9",
+      "glide": "4",
+      "turn": "-3",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Sentinel MF",
+    "manufacturer": "Millennium",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Millennium",
+        "price": "$11.99"
+      },
+      {
+        "name": "Quantum",
+        "price": "-----"
+      },
+      {
+        "name": "Sirius",
+        "price": "$15.99"
+      },
+      {
+        "name": "I-Dyed Millennium",
+        "price": "-----"
+      },
+      {
+        "name": "I-Dyed Quantum",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Shark",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "-----"
+      },
+      {
+        "name": "Champion",
+        "price": "-----"
+      },
+      {
+        "name": "Star",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "4",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Shockwave",
+    "manufacturer": "DGA",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Proline",
+        "price": "$14.99"
+      },
+      {
+        "name": "Proline Tye Dye",
+        "price": "$18.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "2",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Sidewinder",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Glow",
+        "price": "-----"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$17.99"
+      },
+      {
+        "name": "I-Dye Star",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "9",
+      "glide": "5",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Sinus AP",
+    "manufacturer": "Latitude 64",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Zero Line",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "2",
+      "glide": "1",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Sinus SP",
+    "manufacturer": "Latitude 64",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Zero Line",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "2",
+      "glide": "1",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Skeeter",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "R-Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "5",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Slayer",
+    "manufacturer": "Gateway",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Evolution HPP",
+        "price": "$10.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "13",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Slipstream (GT)",
+    "manufacturer": "Discraft",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "X-Line",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "9",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Sole",
+    "manufacturer": "Vibram",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "X-Link Firm",
+        "price": "$16.99"
+      },
+      {
+        "name": "X-Link",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Sonic",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "-4",
+      "turn": "0",
+      "fade": ""
+    }
+  },
+  {
+    "name": "Spectra",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "SuperCOLOR Z-Line",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Speed Demon",
+    "manufacturer": "Gateway",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "-----"
+      },
+      {
+        "name": "E-Series",
+        "price": "$12.99"
+      },
+      {
+        "name": "Evolution HPP",
+        "price": "-----"
+      },
+      {
+        "name": "S-Series Super Light",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "9",
+      "glide": "4",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Spider",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "5",
+      "glide": "3",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Spike",
+    "manufacturer": "Latitude 64",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Zero Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "Grip Line",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "2",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Spirit",
+    "manufacturer": "Gateway",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "E-Series",
+        "price": "-----"
+      },
+      {
+        "name": "Evolution HPP",
+        "price": "$14.99"
+      },
+      {
+        "name": "E-Series Tie-Dye",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "6",
+      "turn": "1",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Squall",
+    "manufacturer": "DGA",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "RDGA, Reef, 150 class Squall, and Blunt Driver",
+        "price": "$8.99"
+      },
+      {
+        "name": "Proline",
+        "price": "$14.99"
+      },
+      {
+        "name": "SP Line",
+        "price": "$16.99"
+      },
+      {
+        "name": "Proline Tye Dye",
+        "price": "$18.99"
+      },
+      {
+        "name": "SP Line Tye Dye",
+        "price": "$20.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Stalker",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "Titanium",
+        "price": "$18.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      },
+      {
+        "name": "Z-Line Glo",
+        "price": "$16.99"
+      },
+      {
+        "name": "Z-Line Glo Fundraiser",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "8",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Starfire",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "I-Dye Pro",
+        "price": "$14.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "SL (Starfire-L)",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Champion",
+        "price": "-----"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "I-Dye Star",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Stingray",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Champion",
+        "price": "-----"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "-----"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "5",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Storm",
+    "manufacturer": "Discraft",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "X-Line",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line",
+        "price": "-----"
+      },
+      {
+        "name": "Photon UV",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "8",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Stratus",
+    "manufacturer": "Discraft",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "X-Line Fly-Dyed",
+        "price": "$14.99"
+      },
+      {
+        "name": "Photon Glow",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "5",
+      "glide": "4",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Striker",
+    "manufacturer": "Latitude 64",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Summit",
+    "manufacturer": "Vibram",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "X-Link Firm",
+        "price": "$16.99"
+      },
+      {
+        "name": "X-Link",
+        "price": "$16.99"
+      },
+      {
+        "name": "X-Link Soft",
+        "price": "-----"
+      },
+      {
+        "name": "Granite X-Link",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "-1",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Super Puppy",
+    "manufacturer": "Destiny Discs",
+    "type": "Touch",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "$11.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "2",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Super Stingray",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Champion",
+        "price": "$12.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Surge SS",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP FLX",
+        "price": "$15.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Surge",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "X-Line",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP",
+        "price": "$15.99"
+      },
+      {
+        "name": "ESP FLX",
+        "price": "$15.99"
+      },
+      {
+        "name": "SuperCOLOR ESP",
+        "price": "$17.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      },
+      {
+        "name": "ESP Fly-Dyed",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Swan 2",
+    "manufacturer": "Westside",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Eco1",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "3",
+      "glide": "3",
+      "turn": "-1",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Sword",
+    "manufacturer": "Westside",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "VIP",
+        "price": "$16.99"
+      },
+      {
+        "name": "Tournament",
+        "price": "$18.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "12",
+      "glide": "5",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "T-Bone",
+    "manufacturer": "Quest AT",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "SRP",
+        "price": "$11.99"
+      },
+      {
+        "name": "Premier",
+        "price": "-----"
+      },
+      {
+        "name": "Tie-Dye SRP",
+        "price": "-----"
+      },
+      {
+        "name": "Tie-Dye Premier",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "7",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Talon",
+    "manufacturer": "Discraft",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "X-Line",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line",
+        "price": "-----"
+      },
+      {
+        "name": "X-Line Fly-Dyed",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "4",
+      "turn": "1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Tank",
+    "manufacturer": "Ching",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Fusion Line",
+        "price": "$12.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "1",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "TD (Turning Driver)",
+    "manufacturer": "Discmania",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "C Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "S Line",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "10",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Te Moko",
+    "manufacturer": "DG Aotearoa",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "3",
+      "glide": "4",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "TL (Teebird-L) Plus",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "7",
+      "glide": "5",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "TL (Teebird-L)",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Pro",
+        "price": "-----"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Champion (Glo CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "7",
+      "glide": "5",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Teebird Plus",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Champion",
+        "price": "-----"
+      },
+      {
+        "name": "Champion (Glo CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "7",
+      "glide": "5",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Teebird",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "$16.99"
+      },
+      {
+        "name": "Glow",
+        "price": "$11.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$17.99"
+      },
+      {
+        "name": "I-Dye Star",
+        "price": "-----"
+      },
+      {
+        "name": "Champion (Glo CFR)",
+        "price": "-----"
+      },
+      {
+        "name": "DX (Full Color)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "7",
+      "glide": "5",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "TeeDevil",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Blizzard Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Champion (CFR)",
+        "price": "$19.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "12",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "TeeRex-X",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "11",
+      "glide": "5",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "TeeRex",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "-----"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "11",
+      "glide": "5",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Tempest",
+    "manufacturer": "DKG Disc Sports",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Cu (Copper)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "13",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Titanic",
+    "manufacturer": "DGA",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "Proline",
+        "price": "$14.99"
+      },
+      {
+        "name": "Proline Tye Dye",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "2",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Tracker",
+    "manufacturer": "Discraft",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "X-Line",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP",
+        "price": "-----"
+      },
+      {
+        "name": "X-Line Fly-Dyed",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "8",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Trak",
+    "manufacturer": "Vibram",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "X-Link Firm",
+        "price": "$16.99"
+      },
+      {
+        "name": "X-Link",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "7",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Transcend",
+    "manufacturer": "Discwing",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Baseline",
+        "price": "$9.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Trident",
+    "manufacturer": "Latitude 64",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "-----"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "5",
+      "glide": "2",
+      "turn": "0",
+      "fade": "5"
+    }
+  },
+  {
+    "name": "Tsunami",
+    "manufacturer": "DGA",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "RDGA, Reef, 150 class Squall, and Blunt Driver",
+        "price": "$8.99"
+      },
+      {
+        "name": "Proline",
+        "price": "$14.99"
+      },
+      {
+        "name": "SP Line",
+        "price": "$16.99"
+      },
+      {
+        "name": "Proline Tye Dye",
+        "price": "$18.99"
+      },
+      {
+        "name": "SP Line Tye Dye",
+        "price": "$20.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "4",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Ultralight Backbone",
+    "manufacturer": "Quest AT",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Nike",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "6",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Ultralight Inferno",
+    "manufacturer": "Quest AT",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Nike",
+        "price": "$9.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "6",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Ultralight Raging Inferno DT",
+    "manufacturer": "Quest AT",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Nike",
+        "price": "$9.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "11",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Ultralight Rock-It",
+    "manufacturer": "Quest AT",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Nike",
+        "price": "$9.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "5",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Ultralight T-Bone",
+    "manufacturer": "Quest AT",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Nike",
+        "price": "$9.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "7",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Ultralight Wildfire",
+    "manufacturer": "Quest AT",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Nike",
+        "price": "$9.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "6",
+      "glide": "3",
+      "turn": "-3",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Undertow",
+    "manufacturer": "DGA",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Proline",
+        "price": "$14.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "5",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Upshot",
+    "manufacturer": "Lightning",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Basic",
+        "price": "$7.99"
+      },
+      {
+        "name": "Glow",
+        "price": "$8.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Valkyrie",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "$16.99"
+      },
+      {
+        "name": "Glow",
+        "price": "-----"
+      },
+      {
+        "name": "Champion Glo",
+        "price": "$17.99"
+      },
+      {
+        "name": "I-Dye Pro",
+        "price": "$14.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$17.99"
+      },
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Vector Mid-Range",
+    "manufacturer": "MVP Disc Sports",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "Proton",
+        "price": "$14.99"
+      },
+      {
+        "name": "Eclipse Glow",
+        "price": "$19.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "5",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Velocity",
+    "manufacturer": "Ching",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Power Line",
+        "price": "$8.99"
+      },
+      {
+        "name": "Supreme Line",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "8",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Venom",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "-----"
+      },
+      {
+        "name": "ESP",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "10",
+      "glide": "4",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Viking",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "9",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Villain",
+    "manufacturer": "Latitude 64",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "$11.99"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "12",
+      "glide": "4",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "Viper",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "5",
+      "glide": "4",
+      "turn": "1",
+      "fade": "5"
+    }
+  },
+  {
+    "name": "Vision",
+    "manufacturer": "Latitude 64",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Grip Line",
+        "price": "-----"
+      },
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      },
+      {
+        "name": "Test Run 2",
+        "price": "$11.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "8",
+      "glide": "6",
+      "turn": "-3",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Voodoo (Super Stupid Soft(SSS))",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series Super Stupid Soft",
+        "price": "$11.99"
+      },
+      {
+        "name": "Organic S-Series",
+        "price": "-----"
+      },
+      {
+        "name": "S-Series Proto(Chalky)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "3",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Voodoo (Super Soft)",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      },
+      {
+        "name": "Organic S-Series",
+        "price": "-----"
+      },
+      {
+        "name": "S-Series Proto(Chalky)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "3",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Voodoo (Soft)",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "3",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Voodoo (Medium)",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      },
+      {
+        "name": "Organic S-Series",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "3",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Voodoo",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "E-Series",
+        "price": "-----"
+      },
+      {
+        "name": "Evolution HPP",
+        "price": "$14.99"
+      },
+      {
+        "name": "Glow",
+        "price": "-----"
+      },
+      {
+        "name": "Organic S-Series",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "3",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "VP",
+    "manufacturer": "Vibram",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "X-Link Firm",
+        "price": "$16.99"
+      },
+      {
+        "name": "X-Link",
+        "price": "$16.99"
+      },
+      {
+        "name": "X-Link Soft",
+        "price": "-----"
+      },
+      {
+        "name": "Granite X-Link",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Vulcan",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Champion (CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "13",
+      "glide": "5",
+      "turn": "-4",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Wahoo",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "R-Pro",
+        "price": "$10.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "12",
+      "glide": "6",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Warlock (Super Stupid Soft(SSS))",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series Super Stupid Soft",
+        "price": "$11.99"
+      },
+      {
+        "name": "Organic S-Series",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Warlock (Super Soft)",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      },
+      {
+        "name": "S-Series Proto(Chalky)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Warlock (Soft)",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Warlock (Medium)",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Warlock",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "E-Series",
+        "price": "-----"
+      },
+      {
+        "name": "Evolution HPP",
+        "price": "$14.99"
+      },
+      {
+        "name": "Glow",
+        "price": "-----"
+      },
+      {
+        "name": "S-Series Proto(Chalky)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Warrior",
+    "manufacturer": "Gateway",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      },
+      {
+        "name": "E-Series",
+        "price": "-----"
+      },
+      {
+        "name": "Evolution HPP",
+        "price": "$14.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "6",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Warship",
+    "manufacturer": "Westside",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "VIP",
+        "price": "$16.99"
+      },
+      {
+        "name": "Tournament",
+        "price": "$18.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "6",
+      "glide": "5",
+      "turn": "0",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Wasp",
+    "manufacturer": "Discraft",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "-----"
+      },
+      {
+        "name": "X-Line",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP",
+        "price": "-----"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      },
+      {
+        "name": "Photon Glow",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "5",
+      "glide": "4",
+      "turn": "0",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Wedge",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "4",
+      "glide": "3",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Whippet",
+    "manufacturer": "Innova",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "-----"
+      },
+      {
+        "name": "Star (TFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "6",
+      "glide": "3",
+      "turn": "1",
+      "fade": "5"
+    }
+  },
+  {
+    "name": "Whitler",
+    "manufacturer": "Snap",
+    "type": "Touch",
+    "plastic": [
+      {
+        "name": "Legend",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "3",
+      "turn": "-2",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Wildcat",
+    "manufacturer": "Discraft",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "-----"
+      },
+      {
+        "name": "X-Line Fly-Dyed",
+        "price": "$14.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "-----"
+      },
+      {
+        "name": "Photon UV",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "10",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Wildfire",
+    "manufacturer": "Quest AT",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "SRP",
+        "price": "$11.99"
+      },
+      {
+        "name": "Tie-Dye SRP",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "6",
+      "glide": "3",
+      "turn": "-3",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Wing and a Prayer",
+    "manufacturer": "DKG Disc Sports",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Cu (Copper)",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "7",
+      "glide": "4",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Wizard (Super Stupid Soft (SSS))",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series Super Stupid Soft",
+        "price": "$11.99"
+      },
+      {
+        "name": "Organic S-Series",
+        "price": "-----"
+      },
+      {
+        "name": "S-Series Eraser (SSS)",
+        "price": "-----"
+      },
+      {
+        "name": "S-Series Proto(Chalky)",
+        "price": "$14.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "2",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Wizard (Super Soft)",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      },
+      {
+        "name": "Organic S-Series",
+        "price": "$11.99"
+      },
+      {
+        "name": "S-Series Proto(Chalky)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "2",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Wizard (Soft)",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "$9.99"
+      },
+      {
+        "name": "Organic S-Series",
+        "price": "-----"
+      },
+      {
+        "name": "S-Series Proto(Chalky)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "2",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Wizard (Medium)",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "S-Series",
+        "price": "-----"
+      },
+      {
+        "name": "E-Series Tie-Dye",
+        "price": "-----"
+      },
+      {
+        "name": "S-Series Proto(Chalky)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Wizard",
+    "manufacturer": "Gateway",
+    "type": "Putt and Approach",
+    "plastic": [
+      {
+        "name": "E-Series",
+        "price": "-----"
+      },
+      {
+        "name": "Evolution HPP",
+        "price": "-----"
+      },
+      {
+        "name": "Glow",
+        "price": "-----"
+      },
+      {
+        "name": "E-Series Tie-Dye",
+        "price": "-----"
+      },
+      {
+        "name": "Organic S-Series",
+        "price": "-----"
+      },
+      {
+        "name": "S-Series Super Light",
+        "price": "$6.99"
+      },
+      {
+        "name": "S-Series Really Freaky Flexible (4S)",
+        "price": "$14.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "2",
+      "glide": "3",
+      "turn": "0",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Wolf",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "4",
+      "glide": "3",
+      "turn": "-4",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "Wraith",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Pro",
+        "price": "$10.99"
+      },
+      {
+        "name": "Blizzard Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "$16.99"
+      },
+      {
+        "name": "I-Dye Pro",
+        "price": "$14.99"
+      },
+      {
+        "name": "I-Dye Champion",
+        "price": "$17.99"
+      },
+      {
+        "name": "I-Dye Star",
+        "price": "-----"
+      },
+      {
+        "name": "Champion (Glo CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "11",
+      "glide": "5",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "Xcaliber",
+    "manufacturer": "Innova",
+    "type": "Distance Driver",
+    "plastic": [
+      {
+        "name": "Champion",
+        "price": "$13.99"
+      },
+      {
+        "name": "Star",
+        "price": "$15.99"
+      },
+      {
+        "name": "Echo Star",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "6",
+      "speed": "12",
+      "glide": "5",
+      "turn": "0",
+      "fade": "4"
+    }
+  },
+  {
+    "name": "XD Plus",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "3",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "XD",
+    "manufacturer": "Innova",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      },
+      {
+        "name": "Champion (Glo CFR)",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "1",
+      "speed": "3",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "XL",
+    "manufacturer": "Discraft",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "ESP",
+        "price": "$15.99"
+      },
+      {
+        "name": "ESP FLX",
+        "price": "$15.99"
+      },
+      {
+        "name": "X-Line Fly-Dyed",
+        "price": "$14.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      },
+      {
+        "name": "Photon Glow",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "7",
+      "glide": "4",
+      "turn": "-1",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "XL-Superdrive",
+    "manufacturer": "DGA",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "RDGA, Reef, 150 class Squall, and Blunt Driver",
+        "price": "$8.99"
+      },
+      {
+        "name": "RDGA, Reef, 150 class Squall, and Blunt Driver X-Out",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "4",
+      "speed": "8",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "2"
+    }
+  },
+  {
+    "name": "Xpress",
+    "manufacturer": "Discraft",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "-----"
+      },
+      {
+        "name": "X-Line Fly-Dyed",
+        "price": "$14.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      },
+      {
+        "name": "Photon UV",
+        "price": "-----"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "8",
+      "glide": "5",
+      "turn": "-3",
+      "fade": "1"
+    }
+  },
+  {
+    "name": "XS",
+    "manufacturer": "Discraft",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "X-Line",
+        "price": "$10.99"
+      },
+      {
+        "name": "Z-Line",
+        "price": "$13.99"
+      },
+      {
+        "name": "X-Line Fly-Dyed",
+        "price": "$14.99"
+      },
+      {
+        "name": "Z-Line Fly-Dyed",
+        "price": "$17.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "7",
+      "glide": "4",
+      "turn": "-2",
+      "fade": "3"
+    }
+  },
+  {
+    "name": "XXX",
+    "manufacturer": "Latitude 64",
+    "type": "Fairway Driver",
+    "plastic": [
+      {
+        "name": "Opto Line",
+        "price": "$14.99"
+      },
+      {
+        "name": "Gold Line",
+        "price": "$16.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "5",
+      "speed": "7",
+      "glide": "2",
+      "turn": "0",
+      "fade": "5"
+    }
+  },
+  {
+    "name": "Zephyr",
+    "manufacturer": "Innova",
+    "type": "Touch",
+    "plastic": [
+      {
+        "name": "DX",
+        "price": "$7.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "2",
+      "speed": "3",
+      "glide": "4",
+      "turn": "0",
+      "fade": "0"
+    }
+  },
+  {
+    "name": "Zone",
+    "manufacturer": "Discraft",
+    "type": "Mid-Range",
+    "plastic": [
+      {
+        "name": "D-Line",
+        "price": "$7.99"
+      },
+      {
+        "name": "ESP",
+        "price": "$15.99"
+      }
+    ],
+    "flight": {
+      "difficulty": "3",
+      "speed": "4",
+      "glide": "3",
+      "turn": "0",
+      "fade": "3"
+    }
+  }
+]

@@ -2,7 +2,7 @@ class DiscsController < ApplicationController
   # GET /discs
   # GET /discs.json
   def index
-    @discs = Disc.all
+    @discs = Disc.includes(:disc_editions).all
 
     respond_to do |format|
       format.html # index.html.erb
