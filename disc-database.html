@@ -1,0 +1,89 @@
+<html><body>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript">
+
+function collect(error, callback) {
+	var results = []
+	  , urlTemplate = 'http://localhost/temp/disc-database-page-#{page}.html'
+	  , i, done = 0
+	  , url
+	  , pages = 15, page = 0
+
+  	for (i = 0; i < pages; i++) {
+  		page = i+1
+		url = urlTemplate.replace(/#{page}/gi, page)
+		console.log('requesting ', url);
+		$.get(url, null, function(content)
+		{
+			var parsed = parseContent(content);
+		    results = results.concat(parsed);
+		    console.log('parsed page ', page, parsed)
+		    if (++done >= pages) callback(results);
+		});
+	}
+
+	console.log('collection done')
+}
+
+
+function parseContent(content) {
+	var products = []
+	var $content = $(content)
+
+	var rows = $content.find('table[width="99%"]').find('td[align="center"] a[href^="http://www.discgolfcenter.com/main_displayProduct.php"]').closest('tr')
+	for (var i = 0; i < rows.length; i++) {
+		var $row = $(rows[i])
+		var name = $row.find('td:nth-child(2) a[href^="http://www.discgolfcenter.com/main_displayProduct.php"]').text().trim()
+		var manufacturer = $($row.find('td:nth-child(2) table table a')[2]).text().trim()
+		var type = $($row.find('td:nth-child(2) table table a')[3]).text().trim()
+		var plastic = $.map($row.find('td:nth-child(3) tr'), function(item) { return {'name':$(item).find(':nth-child(1) a').text().trim(), 'price': $(item).find(':nth-child(3)').text().trim() }; })
+		var characteristics = $row.find('td:nth-child(5) td[valign="middle"]')
+		var flight = {}
+		flight.difficulty = $(characteristics[0]).text().trim()
+		flight.speed = $(characteristics[1]).text().trim()
+		flight.glide = $(characteristics[2]).text().trim()
+		flight.turn = $(characteristics[3]).text().trim()
+		flight.fade = $(characteristics[4]).text().trim()
+
+		products.push({
+			name: name,
+			manufacturer: manufacturer,
+			type: type,
+			plastic: plastic,
+			flight: flight
+		})
+	}
+
+	return products;
+}
+
+function syntaxHighlight(json) {
+    if (typeof json != 'string') {
+         json = JSON.stringify(json, undefined, 2);
+    }
+    json = json.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    return json.replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g, function (match) {
+        var cls = 'number';
+        if (/^"/.test(match)) {
+            if (/:$/.test(match)) {
+                cls = 'key';
+            } else {
+                cls = 'string';
+            }
+        } else if (/true|false/.test(match)) {
+            cls = 'boolean';
+        } else if (/null/.test(match)) {
+            cls = 'null';
+        }
+        return '<span class="' + cls + '">' + match + '</span>';
+    });
+}
+
+console.log(collect(
+				function(){ console.log('error'); }, 
+				function(results){ 
+					$(document.body).html('<pre>'+syntaxHighlight(results)+'</pre>')
+				}
+			))
+</script>
+</body></html>
