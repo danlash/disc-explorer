@@ -1,2 +1,32 @@
-<h1>Home#index</h1>
-<p>Find me in app/views/home/index.html.erb</p>
+<h1>Disc Explorer</h1>
+<table id="discs"></table>
+
+<script type="text/javascript">
+$(function(){
+    $('#discs').dataTable({
+    	sAjaxSource: '<%= discs_path %>',
+        iDisplayLength: 25,
+        bSort: true,
+        bFilter: true,
+        bJQueryUI: true,
+        bProcessing: true,
+        aoColumns: [
+			{ mDataProp: 'manufacturer', sTitle: 'Manufacturer' },
+			{ mDataProp: 'name', sTitle: 'Name' },
+			{ mDataProp: 'throw_type', sTitle: 'Type' },
+			{ mDataProp: 'flight_difficulty', sTitle: 'Difficulty' },
+			{ mDataProp: 'flight_speed', sTitle: 'Speed' },
+			{ mDataProp: 'flight_glide', sTitle: 'Glide' },
+			{ mDataProp: 'flight_turn', sTitle: 'Turn' },
+			{ mDataProp: 'flight_fade', sTitle: 'Fade' },
+			{ mDataProp: 'disc_editions', sTitle: 'Editions', bSortable: false, fnRender: function(column, data) {
+				var editions = ''
+				$.each(data, function(i, item){ editions += item.plastic + ': ' + item.price + '<br/>' })
+				return editions;
+			} } ]
+    });
+})
+
+</script>
+
+<h6>Please visit <a href="http://www.discgolfcenter.com/" title="Disc Golf Center">Disc Golf Center</a> to buy these discs!</h6>

@@ -6,7 +6,9 @@ class DiscsController < ApplicationController
 
     respond_to do |format|
       format.html # index.html.erb
-      format.json { render json: @discs }
+      format.json do
+        render json: { 'aaData' => @discs.as_json(include: :disc_editions) }
+      end
     end
   end
 
