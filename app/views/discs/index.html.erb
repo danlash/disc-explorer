@@ -2,7 +2,7 @@
 <h1>Listing discs</h1>
 
 <table id="discs">
-  <tr>
+  <thead>
     <th>Name</th>
     <th>Manufacturer</th>
     <th>Type</th>
@@ -15,8 +15,8 @@
     <th></th>
     <th></th>
     <th></th>
-  </tr>
-
+  </thead>
+  <tbody>
 <% @discs.each do |disc| %>
   <tr>
     <td><%= disc.name %></td>
@@ -33,8 +33,21 @@
     <td><%= link_to 'Destroy', disc, confirm: 'Are you sure?', method: :delete %></td>
   </tr>
 <% end %>
+  </tbody>
 </table>
 
 <br />
 
 <%= link_to 'New Disc', new_disc_path %>
+
+<script type="text/javascript">
+$(function(){
+    $('#discs').dataTable({
+        iDisplayLength: 25,
+        bSort: true,
+        bFilter: true,
+        bJQueryUI: true
+    });
+})
+
+</script>
